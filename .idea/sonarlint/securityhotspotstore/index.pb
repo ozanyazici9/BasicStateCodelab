@@ -13,8 +13,6 @@ u
 Eapp/src/main/java/com/ozanyazici/basicstatecodelab/StatefulCounter.kt,1\c\1c6d004fc177c88be5bcd9e74233aa7d068ce28c
 r
 Bapp/src/main/java/com/ozanyazici/basicstatecodelab/WellnessTask.kt,3\2\32990c5d0e6fd9263eff366f43fc02cbac324d80
-v
-Fapp/src/main/java/com/ozanyazici/basicstatecodelab/WellnessTaskList.kt,0\8\08947a22a6be4d625cc8c9a95f98fc627d2166b5
 w
 Gapp/src/main/java/com/ozanyazici/basicstatecodelab/WellnessTasksList.kt,0\e\0eb0d363871a02aa6e2c865808cdc88020ddfc3a
 w

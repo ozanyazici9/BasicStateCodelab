@@ -23,6 +23,11 @@ fun WellnessTasksList(
              * instead of using the default key (list position). This prevents unnecessary
              * recompositions.
              */
+            /**
+             * Bu parametre, genellikle her bir öğenin benzersiz bir özelliğini içeren bir değer alır,
+             * böylece her öğe için bir key sağlanır. Bu key değerleri, öğelerin nasıl değiştiğine ve
+             * yeniden oluşturulması gerekip gerekmediğine dair Compose'e rehberlik eder.
+             */
             key = { task -> task.id }
         ) { task ->
             WellnessTaskItem(
